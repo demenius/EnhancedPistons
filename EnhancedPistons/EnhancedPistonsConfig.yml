@@ -1,0 +1,17 @@
+EnhancedPistons:
+  StrongPistons: true
+  WeakPistons: true
+  CrusherPistons: true
+  ChestPushPistons: true
+  ChestPullPistons: true
+StrongPistons:
+  DISPENSER: true
+  CHEST: true
+WeakPistons:
+  NONE: true
+CrusherPistons:
+  OBSIDIAN: true
+PushPistons:
+  COBBLESTONE: true
+PullPistons:
+  COBBLESTONE: true

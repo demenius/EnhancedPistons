@@ -1,0 +1,10 @@
+name: EnhancedPistons
+main: demenius.enhancedpistons.EnhancedPistons
+version: 2.0
+description: Adds Enhanced Functions To Pistons
+commands:
+    EnhancedPistons:
+        description: Test Command
+        usage: /<command>
+        aliases: ep
+    
